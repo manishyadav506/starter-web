@@ -2,4 +2,7 @@ BENGALURU: With more Congress and JD(S) legislators besides  ..
 
 Read more at:
 http://timesofindia.indiatimes.com/articleshow/70120737.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+<<<<<<< HEAD
 This file is on master
+=======
+
