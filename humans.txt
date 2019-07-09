@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- manish yadav -- <twitter>
+    MANISH YADAV
+    manishyadav56@gmaillcom
+    DevOps
 
 # THANKS
 
